@@ -3,6 +3,7 @@
 
 namespace Trafiklab\Gtfs\Model\Entities;
 
+use AllowDynamicProperties;
 use DateTime;
 use Trafiklab\Gtfs\Model\GtfsArchive;
 
