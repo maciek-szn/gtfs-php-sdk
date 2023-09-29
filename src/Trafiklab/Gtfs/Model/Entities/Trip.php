@@ -6,6 +6,7 @@ namespace Trafiklab\Gtfs\Model\Entities;
 
 use Trafiklab\Gtfs\Model\GtfsArchive;
 
+#[AllowDynamicProperties]
 class Trip
 {
 
