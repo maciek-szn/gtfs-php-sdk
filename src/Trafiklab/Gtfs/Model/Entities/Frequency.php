@@ -6,6 +6,7 @@ namespace Trafiklab\Gtfs\Model\Entities;
 use DateTime;
 use Trafiklab\Gtfs\Model\GtfsArchive;
 
+#[AllowDynamicProperties]
 class Frequency
 {
     private $trip_id;
