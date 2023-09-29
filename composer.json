@@ -1,5 +1,5 @@
 {
-  "name": "trafiklab/gtfs-php-sdk",
+  "name": "maciek-szn/gtfs-php-sdk",
   "description": "Use GTFS and GTFS-realtime data in your PHP projects",
   "type": "library",
   "license": "MPL-2.0",
@@ -19,7 +19,7 @@
   ],
   "homepage": "https://trafiklab.se",
   "require": {
-    "php": "^7.2 || ^8.0",
+    "php": "^8.2",
     "ext-json": "*",
     "ext-zip": "*"
   },
