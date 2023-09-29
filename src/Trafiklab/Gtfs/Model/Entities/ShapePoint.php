@@ -3,7 +3,7 @@
 
 namespace Trafiklab\Gtfs\Model\Entities;
 
-
+use AllowDynamicProperties;
 use Trafiklab\Gtfs\Model\GtfsArchive;
 
 #[AllowDynamicProperties]
